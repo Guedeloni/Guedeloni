@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2 align="center"> ❇️ Guedeloni ❇️ </h2>
+
+**Professional bio :**
+<p> 💻 Discovered the world of development at the beginning of the century (!) with Cobol and SQL in the banking sector. <br>
+💡 Rich period of work in a lighting design office.</p>
+<p>🚀 Curious and always interested in science and technology, I start a new path with <strong>Ruby on Rails</strong>.</p>
+
+Let's go for some code !
+
+<a href="https://linkedin.com/in/gu%C3%A9nol%C3%A9-quideau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guedeloni" height="15" width="20" /></a>
+</p>
 
 <!--
 **Guedeloni/Guedeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
