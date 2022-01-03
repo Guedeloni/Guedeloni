@@ -1,7 +1,7 @@
 <h2 align="center"> ❇️ Guedeloni ❇️ </h2>
 
 **Professional bio :**
-<p> 💻 Discovered the world of development at the beginning of the century (!) with Cobol and SQL in the banking sector. <br>
+<p> 💻 Discovered the world of development at the beginning of the century (!) with <code>Cobol</code> and <code>SQL</code> in the banking sector. <br>
 💡 Rich period of work in a lighting design office.</p>
 <p>🚀 Curious and always interested in science and technology, I start a new path with <br>
   <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>JavaScript</code> <code>Stimulus</code> <code>Ruby</code> <code>Rails</code> <code>SQL</code> <code>PostgreSQL</code></p>
