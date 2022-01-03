@@ -7,7 +7,7 @@
 
 Let's go for some code !
 
-<a href="https://linkedin.com/in/gu%C3%A9nol%C3%A9-quideau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guedeloni" height="15" width="20" /></a>
+<a href="https://linkedin.com/in/gu%C3%A9nol%C3%A9-quideau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guedeloni" height="22.5" width="30" /></a>
 </p>
 
 <!--
