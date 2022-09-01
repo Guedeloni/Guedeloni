@@ -4,7 +4,8 @@
 <p> 💻 Discovered the world of development at the beginning of the century (!) with <code>Cobol</code> and <code>SQL</code> in the banking sector. <br>
 💡 Rich period in a lighting design office.</p>
 <p>🚀 Curious and always interested in science and technology, I start a new path with <br>
-  <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Stimulus</code> <code>AngularJS</code> <code>VueJS</code> <code>Ruby</code> <code>Rails</code> <code>Java</code> <code>Spring>/code> <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code></p>
+  <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Stimulus</code> <code>AngularJS</code> <code>VueJS</code> <br>
+  <code>Ruby</code> <code>Rails</code> <code>Java</code> <code>Spring</code> <code>SQL</code> <code>PostgreSQL</code> <code>MySQL</code></p>
 
 Let's go for some code !
 
